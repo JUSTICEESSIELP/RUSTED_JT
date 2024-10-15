@@ -5,4 +5,5 @@
 - cargo watch + clippy       cli [ cargo watch -qc -x run -x clippy]
 - Strings https://www.codecademy.com/resources/docs/rust/strings
 - DSA Crash course   https://www.youtube.com/watch?v=1ZwbHo5HSzg&list=PLTgRMOcmRb3M0h-KpgqJuKl5WG4KgtZio
+- constants like PI : https://doc.rust-lang.org/std/f64/consts/constant.PI.html
 
