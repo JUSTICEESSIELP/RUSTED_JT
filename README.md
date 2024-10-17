@@ -7,4 +7,4 @@
 - DSA Crash course   https://www.youtube.com/watch?v=1ZwbHo5HSzg&list=PLTgRMOcmRb3M0h-KpgqJuKl5WG4KgtZio
 - constants like PI : https://doc.rust-lang.org/std/f64/consts/constant.PI.html
 - db cli crate for local development - https://dev.to/behainguyen/rust-sqlx-cli-database-migration-with-mysql-and-postgresql-42gp
-
+- cargo install sqlx-cli --no-default-features --features native-tls,postgres
