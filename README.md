@@ -8,3 +8,4 @@
 - constants like PI : https://doc.rust-lang.org/std/f64/consts/constant.PI.html
 - db cli crate for local development - https://dev.to/behainguyen/rust-sqlx-cli-database-migration-with-mysql-and-postgresql-42gp
 - cargo install sqlx-cli --no-default-features --features native-tls,postgres
+- Yao's garbled circuits - https://www.youtube.com/@vipulgoyal1/videos
